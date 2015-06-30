@@ -1,6 +1,6 @@
 language: java
 
-build_image: shippableimages/ubuntu1404_java
+build_image: shippableimages/ubuntu1204_java
 
 jdk:
    - openjdk7
